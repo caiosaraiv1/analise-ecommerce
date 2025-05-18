@@ -75,7 +75,7 @@ O **Reino Unido** domina as vendas, mas **Irlanda (EIRE)** e **Países Baixos** 
 *Análise da sazonalidade mensal mostrando picos de vendas em novembro e dezembro*
 
 ### Vendas por Dia
-![Vendas por Dia](([https://github.com/caiosaraiv1/analise-ecommerce/blob/main/imagens/vendas_dia.png](https://raw.githubusercontent.com/caiosaraiv1/analise-ecommerce/refs/heads/main/imagens/vendas_dia.png)))
+![Vendas por Dia](imagens/vendas_dia.png))
 
 *Distribuição das vendas ao longo dos dias do mês*
 
